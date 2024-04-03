@@ -154,7 +154,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jar/XBPQ.jar"
+      "jar":"./jars/XBPQ.jar"
     },
     {
       "key": "毛驴",
@@ -796,9 +796,9 @@
   ],
   "lives": [
     {
-      "name": "多线ITV",
+      "name": "直播",
       "type": 0,
-      "url": "./lib/itvlist.txt",
+      "url": "./live/live.txt",
       "playerType": 1
     },
     {

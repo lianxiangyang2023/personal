@@ -91,6 +91,12 @@
       "changeable": 1
     },
     {
+      "key": "T4-mingri", 
+      "name": "明日┃T4",
+      "type": 4, 
+      "api": "https://catbox.n13.club/mingri.php"
+    },
+    {
       "key": "白嫖",
       "name": "👻白飘┃无广",
       "type": 3,

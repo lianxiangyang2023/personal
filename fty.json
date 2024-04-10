@@ -148,7 +148,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "./lib/nm.json"
     },
     {
       "key":"云2",

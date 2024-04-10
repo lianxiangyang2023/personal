@@ -97,6 +97,12 @@
       "api": "https://catbox.n13.club/mingri.php"
     },
     {
+      "key":"T4-nongmin",
+      "name":"农民影视",
+      "type":4,
+      "api":"https://catbox.n13.club/nongmin.php"
+    },
+    {
       "key": "白嫖",
       "name": "👻白飘┃无广",
       "type": 3,

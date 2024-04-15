@@ -21,16 +21,14 @@
       "filterable": 0,
       "api": "./lib/lf_search3_min.js"
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃App",
+   {
+      "key": "nangua",
+      "name": "🎃┃南瓜┃影视",
       "type": 3,
-      "api": "csp_NanGua",
-      "timeout": 15,
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
+      "playerType": "2",
+      "api": "http://dt.xn--yety82d.love/js/lib/drpy2.min.js",
+      "ext": "http://dt.xn--yety82d.love/js/南瓜.js",
+      "jar":"http://happy.xn--z7x900a.live/jar/PandaQ240414.jar"
     },
     {
       "key": "玩偶",
@@ -159,7 +157,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "./lib/nmys.json"
+      "ext": "https://152.32.170.60/fantaiying/fty/raw/branch/master/ext/nmys.json"
     },
     {
       "key":"云2",
@@ -509,7 +507,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt---4k|auto|fhd"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt---4k|auto|fhd"
     },
     {
       "key": "YiSo",
@@ -519,7 +517,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/a688a57f-1a54-46eb-b1b8-5e87bb109914/token.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "PanSou",
@@ -529,7 +527,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/a688a57f-1a54-46eb-b1b8-5e87bb109914/token.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "UpYun",
@@ -539,7 +537,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/a688a57f-1a54-46eb-b1b8-5e87bb109914/token.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "PanSearch",
@@ -549,7 +547,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/a688a57f-1a54-46eb-b1b8-5e87bb109914/token.txt"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "push_agent",
@@ -558,21 +556,7 @@
       "api": "csp_Push",
       "searchable": 0,
       "quickSearch": 0,
-      "ext": "http://127.0.0.1:9978/file/tvbox/a688a57f-1a54-46eb-b1b8-5e87bb109914/token.txt"
-    },
-    {
-      "key": "Biliych",
-      "name": "🅱明星┃演唱会",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/biliych.json"
+      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {
       "key": "dr_兔小贝",
@@ -643,24 +627,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/高中课堂.json"
-    },
-    {
-      "key": "Nbys",
-      "name": "🛫泥巴┃飞",
-      "type": 3,
-      "api": "csp_NiNi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
-      "key": "csp_trj",
-      "name": "🛫唐人街┃飞",
-      "type": 3,
-      "api": "csp_Tangrenjie",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     }
   ],
   "doh": [

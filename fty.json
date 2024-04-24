@@ -55,11 +55,10 @@
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/上头短剧.js",
+      "api": "csp_Djuu",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0
+      "changeable": 1
     },
     {
       "key": "酷看",

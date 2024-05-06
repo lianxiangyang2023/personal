@@ -130,6 +130,16 @@
       "ext": "https://www.czzy77.com/"
     },
     {
+      "key": "小点",
+      "name": "💥小点┃多线",
+      "type": 3,
+      "api": "csp_Xdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 0
+    },
+    {
       "key": "77",
       "name": "👒七七┃秒播",
       "type": 3,

@@ -90,12 +90,6 @@
       "changeable": 1
     },
     {
-      "key": "T4-mingri", 
-      "name": "明日┃T4",
-      "type": 4, 
-      "api": "https://catbox.n13.club/mingri.php"
-    },
-    {
       "key": "天空",
       "name": "👑天空👑",
       "type": 3,

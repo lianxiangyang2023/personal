@@ -51,19 +51,6 @@
       "quickSearch": 0,
       "changeable": 0
     },
-    //{
-		"key":"Clg",
-		"name":"磁力狗|磁力",
-		"type":3,
-		"api":"csp_Clg",
-		"searchable":1,
-		"quickSearch":1, 
-		"changeable":1, 
-		"filterable":0, 
-		"timeout":60, 
-		"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/tokenm.json$$$https://clg.clgvip1.xyz/$$$proxy$$$1",
-		"jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/wnddwc/daiweichun/main/pg.jar"
-		},
     {
       "key": "短剧",
       "name": "🌈上头┃短剧",

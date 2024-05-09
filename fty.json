@@ -151,6 +151,21 @@
       "jar": "https://cloud.lxweb.cn/f/kJJVip/PandaQ240505.jar"
     },
     {
+      "key": "csp_SC1080",
+      "name": "🏰┃圣城┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "./jars/XBPQ.jar",
+      "ext": {
+        "线路数组": "data-dropdown-value=&&</div>[排序:蓝光ZK][不包含:APP专线#蓝光M#爱奇艺#腾讯视频#优酷视频#芒果TV]",
+        "线路标题": "<span>&&</small>[替换:</span><small>>>共]+集",
+        "播放数组": "sort-item\"&&</div>",
+        "嗅探词": ".m3u8#.mp4#olemovienews.com",
+        "分类url": "https://sc1080.top/index.php/vod/show/area/{area}/class/{class}/id/{cateId}/page/{catePg}/year/{year}.html;;aAcCrRm0u0",
+        "分类": "电影$1#连续剧$2#综艺$3#动漫$4#记录片$5#Netflix$20"
+      }
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽[js]",
       "type": 3,

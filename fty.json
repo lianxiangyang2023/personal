@@ -91,7 +91,7 @@
     },
     {
       "key": "天空",
-      "name": "👑天空👑",
+      "name": "👑天空┃有广",
       "type": 3,
       "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",     
       "api": "csp_AppYsV2",

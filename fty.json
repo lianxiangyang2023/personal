@@ -4,7 +4,7 @@
   "sites": [
     {
       "key": "豆豆",
-      "name": "豆瓣┃推荐",
+      "name": "🥔豆瓣┃推荐",
       "type": 3,
       "api": "csp_DouDou",
       "searchable": 0,
@@ -13,7 +13,7 @@
     },
     {
       "key": "lf_js_search",
-      "name": "搜索┃lf_search",
+      "name": "🔍搜索┃lf_search",
       "type": 3,
       "searchable": 0,
       "changeable": 1,
@@ -34,7 +34,7 @@
     },
     {
       "key": "玩偶",
-      "name": "👽玩偶哥哥┃4K弹幕",
+      "name": "👽玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -44,7 +44,7 @@
     },
     {
       "key": "YGP",
-      "name": "🚀叨观荐影┃新片",
+      "name": "🚀叨观┃新片",
       "type": 3,
       "api": "csp_YGP",
       "searchable": 0,
@@ -134,14 +134,14 @@
     },
     {
       "key": "csp_SP360",
-      "name": "📺┃360┃官源",
+      "name": "📺360┃官源",
       "type": 3,
       "api": "csp_SP360",
       "jar": "https://cloud.lxweb.cn/f/kJJVip/PandaQ240505.jar"
     },
     {
       "key": "csp_SC1080",
-      "name": "🏰┃圣城┃影视",
+      "name": "🏰圣城┃影视",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "./jars/XBPQ.jar",
@@ -156,7 +156,7 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽[js]",
+      "name": "奇珍异兽┃XYQ",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/奇珍异兽.js",
@@ -164,7 +164,7 @@
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷[js]",
+      "name": "优酷┃XYQ",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/优酷.js",
@@ -172,7 +172,7 @@
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾[js]",
+      "name": "腾云驾雾┃XYQ",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/腾云驾雾.js",
@@ -180,7 +180,7 @@
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "百忙无果[js]",
+      "name": "百忙无果┃XYQ",
       "type": 3,
       "api": "./api/drpy2.min.js",
       "ext": "./js/百忙无果.js",

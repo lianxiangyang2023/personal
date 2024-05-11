@@ -630,11 +630,25 @@
             "type": 1,
             "url": "https://dyxq.sdbt888.com/prodApi/btzd-dyzq/app/videoInfo/open/openJxByUrl?url=",
             "ext": {
-                "header": {
+                 "flag": [
+                    "qq",
+                    "腾讯",
+                    "qiyi",
+                    "爱奇艺",
+                    "奇艺",
+                    "youku",
+                    "优酷",
+                    "mgtv",
+                    "芒果",
+                    "letv"
+                ],
+                 "ext": {
+                   "header": {
                     "user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36",
                     "referer": "Referer:https://www.mgtv.com/"
                 }
             }
+        }
     },
     {
             "name": "-咸鱼-",

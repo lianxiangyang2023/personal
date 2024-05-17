@@ -90,17 +90,6 @@
       "changeable": 1
     },
     {
-      "key": "天空",
-      "name": "👑天空┃有广",
-      "type": 3,
-      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",     
-      "api": "csp_AppYsV2",
-      "ext": "https://5setp.vip/api.php/app/",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -321,6 +310,17 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://www.80yy3.com/"
+    },
+    {
+      "key": "天空",
+      "name": "👑天空┃有广",
+      "type": 3,
+      "playUrl": "json:http://127.0.0.1:10079/parse/?thread=0&proxy=&url=",     
+      "api": "csp_AppYsV2",
+      "ext": "https://5setp.vip/api.php/app/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "csp_Bttoo",

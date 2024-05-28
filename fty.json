@@ -101,6 +101,11 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
+    {"key":"天天影视","name":"[表情]天天┃影视","type":3,"api":"csp_TTian","ext":"http://op.ysdqjs.cn","jar":"http://tv.nxog.top/m/jar.php"},
+    {"key":"热播影视","name":"[表情]热播┃影视","type":3,"api":"csp_TTian","ext":"http://v.rbotv.cn","jar":"http://tv.nxog.top/m/jar.php"}, 
+    {"key":"追剧影视","name":"[表情]追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","jar":"http://tv.nxog.top/m/jar.php"}, 
+    {"key":"快看影视","name":"[表情]快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://tv.nxog.top/m/jar.php"}, 
+    {"key":"酷看影视","name":"[表情]酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"http://tv.nxog.top/m/jar.php"},
     {
       "key": "小点",
       "name": "💥小点┃多线",

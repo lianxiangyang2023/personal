@@ -103,7 +103,7 @@
     },
     {"key":"天天影视","name":"[表情]天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
     {"key":"热播影视","name":"[表情]热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
-    {"key":"追剧影视","name":"[表情]追剧┃影视","type":3,"api":"csp_TTian","ext":"http://app.kzjtv.com","filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
+    {"key":"追剧影视","name":"[表情]追剧┃影视","type":3,"api":"csp_TTian","ext":"https://www.sdzytzjt.com","filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
     {"key":"快看影视","name":"[表情]快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
     {"key":"酷看影视","name":"[表情]酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
     {
@@ -1378,8 +1378,8 @@
       "url": "./live/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
+      "epg": "http://127.0.0.1:10079/p/0/proxy/http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "http://127.0.0.1:10079/p/0/proxy/https://epg.112114.xyz/logo/{name}.png"
     },
     {
       "name": "高速V6",

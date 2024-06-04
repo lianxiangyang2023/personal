@@ -103,7 +103,6 @@
     },
     {"key":"天天影视","name":"[表情]天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
     {"key":"热播影视","name":"[表情]热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
-    {"key":"追剧影视","name":"[表情]追剧┃影视","type":3,"api":"csp_TTian","ext":"https://www.sdzytzjt.com","filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
     {"key":"快看影视","name":"[表情]快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://o.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"}, 
     {"key":"酷看影视","name":"[表情]酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"http://tv.nxog.top/m/jar.php?id=ou&ou=公众号欧歌app"},
     {
@@ -390,16 +389,6 @@
       "ext": "./lib/荐片.js"
     },
     {
-      "key": "新6V",
-      "name": "🧲新6V┃磁力",
-      "type": 3,
-      "api": "csp_SixV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://www.xb6v.com/"
-    },
-    {
       "key": "88js",
       "name": "⚽ 88┃看球",
       "type": 3,
@@ -479,30 +468,6 @@
       "ext": "./lib/MTV.json"
     },
     {
-      "key": "聚短视频js",
-      "name": "📽️聚短┃视频",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/短视频.js",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "有声小说js",
-      "name": "🎧有声┃小说",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/有声小说吧.js",
-      "style": {
-        "type": "rect",
-        "ratio": 1
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "Aid",
       "name": "🚑急救┃教学",
       "type": 3,
@@ -514,16 +479,6 @@
         "type": "rect",
         "ratio": 3.8
       }
-    },
-    {
-      "key": "夸搜",
-      "name": "🐺夸搜┃搜索",
-      "type": 3,
-      "api": "csp_QuarkPanso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt---4k|auto|fhd"
     },
     {
       "key": "YiSo",
@@ -563,15 +518,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
-    },
-    {
-      "key": "push_agent",
-      "name": "🛴手机┃推送",
-      "type": 3,
-      "api": "csp_Push",
-      "searchable": 0,
-      "quickSearch": 0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt"
     },
     {

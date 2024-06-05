@@ -187,7 +187,8 @@
       "name": "奇珍异兽┃XYQ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js",
+      "jar": "./jars/custom_spider.jar"
     },
     {
       "key": "drpy_js_优酷",

@@ -647,7 +647,7 @@
       "url": "Web"
     },
     {
-      "name": "肥猫",
+      "name": "公众号：肥猫宝贝",
       "type": 1,
       "url": "http://json.84jia.com/home/api?type=ys&uid=335253&key=demprsyzBMQRVY0234&url=",
       "ext": {
@@ -682,7 +682,7 @@
       }
     },
     {
-      "name": "肥猫2",
+      "name": "肥猫最可爱",
       "type": 1,
       "url": "http://xn--ihqu10cn4c.xn--z7x900a.live/jx.php?id=2&url=",
       "ext": {
@@ -720,6 +720,11 @@
       "name": "777",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "解析",
+      "type": 0,
+      "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
     },
     {
       "name": "杰森",

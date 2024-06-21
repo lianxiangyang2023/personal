@@ -234,11 +234,11 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
     },
     {
-      "key": "drpy_js_FreeOK",
-      "name": "影视 | FreeOK[js]",
+      "key": "drpy_js_TV云播",
+      "name": "影视 | TV云播[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/FreeOK.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/tva云播.js"
     },
     {
       "key": "DiDuan",
@@ -249,27 +249,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
-    },
-    {
-      "key":"云2",
-      "name":" ‍梦影（og）",
-      "type":3,
-      "api":"csp_Movie2",
-      "searchable": 1,
-      "jar":"./jars/jar.php",
-      "ext":"https://github.moeyy.xyz/https://raw.githubusercontent.com/ouhaibo1980/tvbox/master/EXT/Movie5"
-    },
-    {
-      "key": "耐看点播",
-      "name": "耐看 | 优质",
-      "type": 3,
-      "viewType":2,            
-      "api": "csp_XBPQ",
-      "ext": {"分类":"电影$1#电视剧$2#综艺$3#动漫$4","分类url": "https://www.nkvod.us/show/{cateId}--------{catePg}---{year}.html"},
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jars/XBPQ.jar"
     },
     {
       "key": "7xdy",
@@ -294,6 +273,13 @@
                  "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html"
               },
       "jar":"./jars/XBPQ.jar"
+    },
+    {
+      "key": "drpy_js_FreeOK",
+      "name": "影视 | FreeOK[js]",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/FreeOK.js"
     },
    {
       "key": "糯米",
@@ -647,6 +633,16 @@
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
     },
+     {
+      "name": "777",
+      "type": 0,
+      "url": "https://jx.777jiexi.com/player/?url="
+    },
+    {
+      "name": "杰森",
+      "type": 0,
+      "url": "https://jx.jsonplayer.com/player/?url="
+    },
     {
       "name": "肥猫2",
       "type": 1,
@@ -681,6 +677,16 @@
           "YuMi-vip"
         ]
       }
+    },
+    {
+      "name": "战狼",
+      "type": 0,
+      "url": "https://jx.zhanlangbu.com/?url="
+    },
+    {
+      "name": "ok",
+      "type": 0,
+      "url": "https://okjx.cc/?url="
     },
      {
       "name": "巧技",
@@ -768,7 +774,7 @@
     }
    }
 },
-{"name":"-公众号-","type":0,"url":"https://jx.m3u8.pw/?url="}, 
+{"name":"-欧歌3-","type":0,"url":"https://jx.m3u8.pw/?url="}, 
 {
   "name":"-欧歌APP-",
   "type":0,

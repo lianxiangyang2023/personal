@@ -6,7 +6,7 @@
 {
   "spider": "./jars/fan.jar",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
-  "sites": [
+  "sites":[
     {
       "key": "豆豆",
       "name": "🥔豆瓣┃推荐",

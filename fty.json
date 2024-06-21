@@ -234,13 +234,6 @@
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
     },
     {
-      "key": "drpy_js_TV云播",
-      "name": "影视 | TV云播[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/tva云播.js"
-    },
-    {
       "key": "DiDuan",
       "name": "⏮️低端┃外剧",
       "type": 3,
@@ -273,13 +266,6 @@
                  "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html"
               },
       "jar":"./jars/XBPQ.jar"
-    },
-    {
-      "key": "drpy_js_FreeOK",
-      "name": "影视 | FreeOK[js]",
-      "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/FreeOK.js"
     },
    {
       "key": "糯米",

@@ -948,6 +948,7 @@
   "flags": [
         "youku",
         "qq",
+        "优酷","优 酷","优酷视频","qq","腾讯","腾 讯","腾讯视频","奇艺","爱奇艺","爱 奇 艺","m1905","xigua","leshi","乐视","乐 视","搜狐","搜 狐","搜狐视频",
         "iqiyi",
         "qiyi",
         "letv",
@@ -1086,6 +1087,7 @@
         "25.1999"
       ]
     },
+    {"name":"智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
     {
       "name": "hs",
       "hosts": [

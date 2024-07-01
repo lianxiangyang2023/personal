@@ -137,10 +137,9 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"./jars/ou.jar"},
-    {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar"}, 
-    {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar"}, 
-    {"key":"酷看影视","name":"💡酷看┃影视","type":3,"api":"csp_Wexkukantv","searchable":1,"changeable":1,"jar":"./jars/ou.jar"},
+    {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1},
+    {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1}, 
+    {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1}, 
     {   
       "key": "勇往高清二",
       "name": " 💕爱┃天天",
@@ -239,7 +238,7 @@
     },
     {
 "key": "剧哥哥", 
-"name": "剧哥哥", 
+"name": "剧剧", 
 "type": 3,
 "searchable": 1, 
 "quickSearch": 1, 

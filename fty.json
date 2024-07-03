@@ -808,8 +808,9 @@
 	{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"快看广告","hosts":["kuaikan"],"regex":["#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:5,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-KEY:METHOD=NONE\\r*\\n*#EXTINF:2\\.4,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
 	{"name":"磁力广告","hosts":["magnet"],"regex":["更多","请访问","example","社 區","x u u","直 播","更 新","社 区","有趣","有 趣","英皇体育","全中文AV在线","澳门皇冠赌场","哥哥快来","美女荷官","裸聊","新片首发","UUE29"]},
-        {"name":"智能AI已过滤广告🥨欢迎继续收看节目","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
+        {"name":"智能AI已过滤广告","hosts":["http"],"disable":["aliyuncs.com","olemovienews.com","ninjia.online","vdtuzv.com","json.icu","/asp/hls/","huya.com","zsyzcy.cn","/nby/","yjys.me","122.228.8.29:4433/Cache","huohua","cdn.json.icu"],"rules":[{"regexp":"AI"}],"toLog":0},
 	{"name":"一起看广告","hosts":["yqk88"],"regex":["18.4","15.1666","16.5333","#EXT-X-DISCONTINUITY\\r*\\n*[\\s\\S]*?#EXT-X-CUE-IN"]},
+	{"name":"AI","hosts":[".ffzy",".cdnlz",".lz","yzzy",".bfeng",".kuaikan","leshiyun","y2.ylbf",".hdzyk",".wxys",".ikzybf",".daayee",".fentvoss"],"rules":[{"regexp":"AI"}],"toLog":1},
 	{"name":"火山嗅探","hosts":["huoshan.com"],"regex":["item_id="]},
 	{"name": "蜗牛直连去广","hosts": ["vip.123pan.cn","rescdn.wuxivlog.cn"],
            "regex": [

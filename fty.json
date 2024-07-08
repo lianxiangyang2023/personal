@@ -207,13 +207,6 @@
       "changeable": 1
     },
     {
-      "key": "csp_SP360",
-      "name": "📺360┃官源",
-      "type": 3,
-      "api": "csp_SP360",
-      "jar": "https://like.xn--z7x900a.com/jar/PandaQ240625.jar"
-    },
-    {
       "key": "csp_SC1080",
       "name": "🏰圣城┃影视",
       "type": 3,

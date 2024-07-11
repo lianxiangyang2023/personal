@@ -123,7 +123,7 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "https://like.xn--z7x900a.com/jar/PandaQ240706.jar"
+      "jar": "https://like.xn--z7x900a.com/jar/PandaQ240711.jar;md5;ba8110069297293eb2a9bdd190cff284"
     },
     {
       "key": "厂长",
@@ -149,7 +149,7 @@
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
-      "jar": "http://110.40.38.193:1688/box/jar/pg1.jar",
+      "jar": "./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c",
       "ext": "http://op.ysdqjs.cn"
     },
     {     
@@ -161,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/ou.jar",
+      "jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c",
       "ext": "http://122.228.84.103:5825/api.php/app/"
     },
     {

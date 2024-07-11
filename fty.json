@@ -60,15 +60,6 @@
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
     },
     {
-      "key": "YGP",
-      "name": "🚀叨观┃新片",
-      "type": 3,
-      "api": "csp_YGP",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,

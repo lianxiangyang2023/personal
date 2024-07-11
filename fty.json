@@ -59,11 +59,11 @@
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
     },
-    {
+     {
       "key": "短剧",
       "name": "🌈上头┃短剧",
       "type": 3,
-      "api": "csp_Djuu",
+      "api": "csp_Djtt",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -90,7 +90,7 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃无广",
+      "name": "🍎苹果┃不卡",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,

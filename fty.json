@@ -238,35 +238,39 @@
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js",
-      "jar": "./jars/custom_spider.jar"
+      "jar": "./jars/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5"
     },
     {
       "key": "drpy_js_优酷",
       "name": "优酷┃XYQ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/优酷.js",
+      "jar": "./jars/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "腾云驾雾┃XYQ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/腾云驾雾.js",
+      "jar": "./jars/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "百忙无果┃XYQ",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/百忙无果.js",
+      "jar": "./jars/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5"
     },
     {
       "key": "drpy_js_在线之家",
       "name": "影视 | 在线之家[js]",
       "type": 3,
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js"
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/在线之家.js",
+      "jar": "./jars/custom_spider.jar;md5;b0f882e4f73e078bb53807dac73faef5"
     },
     {
       "key": "DiDuan",
@@ -805,8 +809,14 @@
         {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
         {"host": "www.fun4k.com","rule": ["https://hd.ijycnd.com/play","index.m3u8"]},
         {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time=","key=","path="]},
-        {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
+        {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["17.19", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
+	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","17.99",
+            "14.45","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+            "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",
+            "#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
+            "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
 	{"name":"索尼广告","hosts":["suonizy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:1\\.000000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?p1ayer.*?\\.ts\\s+","#EXTINF.*?\\s+.*?\\/video\\/original.*?\\.ts\\s+"]},
 	{"name":"暴风广告","hosts":["bfzy","bfbfvip"],"regex":["#EXTINF.*?\\s+.*?adjump.*?\\.ts\\s+"]},
 	{"name":"星星广告","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},

@@ -137,12 +137,12 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {"key":"可可影视","name":"💡可可┃影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar"}, 
-    {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"./jars/ou.jar"},
-    {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar"}, 
-    {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar"},
-    {"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar"}, 
-    {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar"}, 
+    {"key":"可可影视","name":"💡可可┃影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
+    {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
+    {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
+    {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
+    {"key":"良品短剧","name":"🐞良品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
+    {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
     {   
       "key": "勇往高清二",
       "name": " 💕爱┃天天",

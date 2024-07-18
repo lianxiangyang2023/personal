@@ -122,11 +122,11 @@
     },
     {
       "key": "csp_Juqq",
-      "name": "⭕┃剧圈┃影视",
+      "name": "⭕剧圈┃影视",
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "./jars/jar;md5;5726820db7171fd98050c34db7639dfa"
+      "jar": "./jars/fm.jar;md5;5726820db7171fd98050c34db7639dfa"   
     },
     {
       "key": "厂长",

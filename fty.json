@@ -61,15 +61,20 @@
       "ext": "",
       "jar": "http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398"
     },
-    {
+     {
       "key": "玩偶",
-      "name": "👽玩偶┃4K弹幕",
+      "name": "👽玩偶哥哥┃4K弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/XYQTVBox/alitoken.txt+4k|auto|fhd"
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto",
+        "siteUrl": "https://www.wogg.link/",
+        "danMu": "弹"
+      }
     },
      {
       "key": "短剧",

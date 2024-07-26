@@ -130,7 +130,7 @@
       "name": "🌾️┃农民┃影视",
       "type": 3,
       "api": "csp_Nongm",
-      "jar": "./jars/fm.jar;md5;5726820db7171fd98050c34db7639dfa"    
+      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"    
     },  
     {
       "key": "csp_Juqq",
@@ -138,7 +138,25 @@
       "type": 3,
       "playerType": "2",
       "api": "csp_Juqq",
-      "jar": "./jars/fm.jar;md5;5726820db7171fd98050c34db7639dfa"   
+      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"   
+    },
+    {
+      "key": "可可",
+      "name": " 😝可可┃影视",
+      "type": 3,
+      "playerType": "2",
+      "api": "csp_Keke",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"     
+    },
+     {
+      "key": "csp_Taozi",
+      "name": "🍑┃桃子┃影视",
+      "type": 3,
+      "api": "csp_Taozi",
+      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"     
     },
     {
       "key": "厂长",
@@ -152,7 +170,6 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {"key":"可可影视","name":"💡可可┃影视","type":3,"api":"csp_Keke","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
     {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
     {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
     {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},

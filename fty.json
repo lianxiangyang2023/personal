@@ -805,6 +805,7 @@
         {"name": "sn","hosts": ["suonizy"],"regex": [
         "#EXTINF.*?\\s+.*?original.*?\\.ts\\s+","15.1666","15.2666","16.3333","15.266667"]},
         {"name": "bf","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
+	{"name": "hs","hosts": ["huoshan.com"],"regex": ["item_id="]},
         {"name": "xx","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
         {"name": "lz","hosts": ["vip.lz","hd.lz","v.cdnlz","yzzy1.play"],
           "regex": ["18.5333","19.52","17.726044","18.6666",
@@ -827,7 +828,7 @@
         {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time=","key=","path="]},
         {"name":"量子广告","hosts":["vip.lz","hd.lz",".cdnlz"],"regex":["17.19", "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:4\\.066667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
-	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","25.0666","17.99",
+	{"name":"非凡广告","hosts":["vip.ffzy","hd.ffzy"],"regex":["20.52","25.08","25.0666","25.1","17.99","25.1999"
             "14.45","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXTINF.*?\\s+.*?1171(057).*?\\.ts",

@@ -568,50 +568,6 @@
             "ext": "./json/儿童拼音.json",
             "jar": "./jars/spider.jar"
         },
-        {
-            "key": "儿童识字",
-            "name": "🌏儿童识字",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童识字.json",
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "儿童英语",
-            "name": "🌏儿童英语",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童英语.json",
-           "jar": "./jars/spider.jar"
-        },
-	{
-            "key": "儿童思维",
-            "name": "🌏儿童思维",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童思维.json",
-            "jar": "./jars/spider.jar"
-        },
-        {
-            "key": "儿童口才",
-            "name": "🌏儿童口才",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "./json/儿童口才.json",
-            "jar": "./jars/spider.jar"
-        },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",

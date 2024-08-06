@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://czzy.top/"
+      "ext": "https://www.czys.pro/"
     },
     {
       "key":"南瓜",
@@ -72,7 +72,7 @@
       "ext": {
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
-        "siteUrl": "https://www.wogg.link/",
+        "siteUrl": "https://www.wogg.net/",
         "danMu": "弹"
       }
     },
@@ -188,17 +188,31 @@
     {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
     {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
     {"key":"明日影视","name":"💡明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
-    {     
-      "key": "麒麟资源",
-      "name": "💕爱┃家4K",
-      "playerType": 1,
+   {
+      "key": "PanSou",
+      "name": "🦊盘搜┃阿狸",
       "type": 3,
-      "api": "csp_AppYsV2",
+      "api": "csp_PanSou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c",
-      "ext": "http://122.228.84.103:5825/api.php/app/"
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
+    {
+      "key": "YiSo",
+      "name": "😹易搜┃阿狸",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "小点",

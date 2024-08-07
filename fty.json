@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;6569779195625775f841ee964e8cec56",
+  "spider": "./jars/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites":[
     {
@@ -97,7 +97,8 @@
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "csp_Qiyou",
@@ -106,7 +107,8 @@
       "api": "csp_Qiyou",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "csp_TianTian",
@@ -115,7 +117,8 @@
       "api": "csp_TianTian",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "filterable": 1,
+      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "短剧",
@@ -211,7 +214,6 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {"key":"天天影视","name":"💡天天┃影视","type":3,"api":"csp_AppTT","searchable":1,"changeable":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
     {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
     {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
     {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
@@ -711,6 +713,22 @@
       "type": 0,
       "url": "https://jx.m3u8.pw/?url="  
     },
+    {
+	"name": "解析",
+	"type": 1,
+	"url": "http://122.228.84.103:7777/api/?key=J3RDcpC4cTTSrpyEeD&url=",
+	"ext": {
+		"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent": "okhttp/4.9.1"}
+		}  
+	}, 
+   {
+	"name": "解析2",
+	"type": 1,
+	"url": "http://122.228.84.103:7777/api/?key=4Dk5tdayvY6NZufEMG&url=",
+	"ext": {
+		"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905"],"header":{"User-Agent": "okhttp/4.9.1"}
+		}  
+	}, 
     {
       "name": "xmflv",
       "type": 0,

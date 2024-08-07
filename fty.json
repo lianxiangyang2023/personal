@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "csp_Qiyou",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "csp_TianTian",
@@ -122,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
     },
     {
       "key": "短剧",
@@ -218,10 +218,6 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
-    {"key":"热播影视","name":"💡热播┃影视","type":3,"api":"csp_AppRB","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
-    {"key":"快看影视","name":"💡快看┃影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
-    {"key":"精品短剧","name":"🐞精品┃短剧","type":3,"api":"csp_Wexduanjuvip","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"}, 
-    {"key":"明日影视","name":"💡明日┃影视","type":3,"api":"csp_WexMingriys","searchable":1,"changeable":1,"jar":"./jars/ou.jar;md5;774a1d1c41442a76bf8d25593d35df1c"},
    {
       "key": "PanSou",
       "name": "🦊盘搜┃阿狸",

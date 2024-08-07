@@ -173,39 +173,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_Nongm",
-      "name": "🌾️┃农民┃影视",
-      "type": 3,
-      "api": "csp_Nongm",
-      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"    
-    },  
-    {
-      "key": "csp_Juqq",
-      "name": "⭕剧圈┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Juqq",
-      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"   
-    },
-    {
-      "key": "可可",
-      "name": " 😝可可┃影视",
-      "type": 3,
-      "playerType": "2",
-      "api": "csp_Keke",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"     
-    },
-     {
-      "key": "csp_Taozi",
-      "name": "🍑┃桃子┃影视",
-      "type": 3,
-      "api": "csp_Taozi",
-      "jar": "./jars/fm0724.jar;md5;ea583cfd8a62f4b92b22505c181794bb"     
-    },
+    {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
+    {"key":"csp_Kekys","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
+    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
+    {"key":"农民","name":"💢农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "厂长",
       "name": "📔厂长┃不卡",

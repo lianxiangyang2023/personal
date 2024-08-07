@@ -189,6 +189,29 @@
       "changeable": 1,
       "ext": "https://czzy.top/"
     },
+    {
+      "key": "文采",
+      "name": "💮文采┃秒播",
+      "type": 3,
+      "api": "csp_Jpys",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+   {
+      "key": "米搜",
+      "name": "🦋米搜┃夸父",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
+    },
    {
       "key": "PanSou",
       "name": "🦊盘搜┃阿狸",
@@ -219,21 +242,10 @@
       "key": "小点",
       "name": "💥小点┃多线",
       "type": 3,
-      "api": "csp_Xdys",
+      "api": "csp_Appxdys",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
       "changeable": 0
-    },
-    {
-      "key": "文采",
-      "name": "💮文采┃秒播",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "热播",

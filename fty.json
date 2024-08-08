@@ -881,6 +881,7 @@
         {"name": "ff","hosts": ["vip.ffzy","hd.ffzy","super.ffzy",".ffzy*"],
            "regex": ["20.52","25.08","25.0666","25.1","17.99","25.1999","14.45","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY",
             "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
+	    "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.400000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1170(20|32).*?\\.ts\\s+",
             "#EXTINF.*?\\s+.*?1171(057).*?\\.ts","#EXTINF.*?\\s+.*?6d7b(077).*?\\.ts",
             "#EXTINF.*?\\s+.*?6718a(403).*?\\.ts","#EXTINF.*?\\s+.*?116977.*?\\.ts\\s+"]},
         {"host": "www.djuu.com","rule": ["mp4.djuu.com","m4a"]},

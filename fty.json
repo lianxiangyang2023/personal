@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;dc0bb7989c050bc9aba22fae0c49348b",
+  "spider": "./jars/fan.txt;md5;dfca5ce9ad9310ba86ab1f933b4af2de",
   "wallpaper": "https://深色壁纸.饭.eu.org/",
   "sites":[
     {
@@ -102,7 +102,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"
     },
     {
       "key": "csp_Qiyou",
@@ -112,7 +112,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"
     },
     {
       "key": "csp_TianTian",
@@ -122,7 +122,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"
+      "jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"
     },
     {
       "key": "短剧",
@@ -173,10 +173,10 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
-    {"key":"csp_Kekys","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
-    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275"},
-    {"key":"农民","name":"💢农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;572E454C2BAA2052233A5C8D79086275","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"},
+    {"key":"csp_Kekys","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"},
+    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82"},
+    {"key":"农民","name":"💢农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;DB232003C81DF3BE30BEACFE2589CF82","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "厂长",
       "name": "📔厂长┃不卡",

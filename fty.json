@@ -870,7 +870,7 @@
         {"name": "bf","hosts": ["bfzy"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
         {"name": "xx","hosts": ["aws.ulivetv.net"],"regex": ["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},
         {"name": "lz","hosts": ["vip.lz","hd.lz","v.cdnlz","yzzy1.play"],
-          "regex": ["18.5333","19.52","17.726044","18.6666",
+          "regex": ["18.5333","19.52","17.726044","18.6666","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6\\.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
           "#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7\\.166667,[\\s\\S]*?#EXT-X-DISCONTINUITY",
           "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},
         {"name": "ff","hosts": ["vip.ffzy","hd.ffzy","super.ffzy",".ffzy*"],

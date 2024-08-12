@@ -49,18 +49,6 @@
       "quickSearch":1,
       "changeable":1
     },
-    {
-      "key": "南瓜QJ",
-      "name": "🎃南瓜┃巧技",
-      "type": 3,
-      "api": "csp_NanGua",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "",
-      "jar": "http://cdn.qiaoji8.com/fix240620.jar;md5;2e3f4dbde933d61722e64ee807500398"
-    },
      {
       "key": "玩偶",
       "name": "👽玩偶┃4K",

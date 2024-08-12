@@ -1009,7 +1009,7 @@
       "url": "./live/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "epg": "https://epg.erw.cc/e.xml/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {

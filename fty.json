@@ -689,16 +689,16 @@
       "type": 1,
       "url": "http://122.228.85.203:7979/api/?key=e5ef7605633990b8d99ee1bfae1967868&url=",
       "status": "normal",
-      "type_text":"Type 1”,
-      "status_text"："正常"
+      "type_text": "Type 1”,
+      "status_text": "正常"
     },
     {
       "name": "4k1",
       "type": 1,
       "url": "http://122.228.85.203:6789/api/?key=de7ed0ead4328fe74ade88bd922e3f4f&url=",
       "status": "normal",
-      "type_text":"Type 1”,
-      "status_text"："正常"
+      "type_text": "Type 1”,
+      "status_text": "正常"
     },
     {
       "name": "xmflv1",
@@ -757,17 +757,6 @@
       "name": "777",
       "type": 0,
       "url": "https://jx.777jiexi.com/player/?url="
-    },
-     {
-      "name": "看看",
-      "type": 0,
-      "url": "https://jx.m3u8.pw/?url=",
-      "ext": {
-        "flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","imgo","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],
-        "header": {
-          "User-Agent": "okhttp/4.1.0"
-        }
-      }
     },
     {
       "name": "杰森",
@@ -855,14 +844,6 @@
     }
    }
  },
-{"name":"-欧歌3-","type":0,"url":"https://jx.m3u8.pw/?url="}, 
-{
-  "name":"-欧歌APP-",
-  "type":0,
-  "url":"https://jx.jsonplayer.com/player/?url=",
-  "ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒芒","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}
-  }
-},
     {
       "name": "🍭春盈77",
       "type": 0,
@@ -875,7 +856,7 @@
         "url": "https://www.pangujiexi.com/pangu/?url="
     },
     {
-      "name": "解析",
+      "name": "解析4",
       "type": 0,
       "url": "https://svip.cygc.xyz/api/?key=cygctest&url="
     }

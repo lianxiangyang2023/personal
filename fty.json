@@ -4,8 +4,8 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;6572bdf43493033ca692116460a12bac",
-  "wallpaper": "https://深色壁纸.饭.eu.org/",
+  "spider": "./jars/fan.txt;md5;329e914a90b0bb5c7cb69b0eaec19700",
+  "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites":[
     {
       "key": "豆豆",
@@ -15,16 +15,6 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0
-    },
-    {
-      "key": "lf_js_search",
-      "name": "🔍搜索┃lf_search",
-      "type": 3,
-      "searchable": 0,
-      "changeable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "api": "./lib/lf_search3_min.js"
     },
     {
       "key": "厂长",
@@ -89,7 +79,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"
+      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
     },
     {
       "key": "csp_Qiyou",
@@ -99,7 +89,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"
+      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
     },
     {
       "key": "csp_TianTian",
@@ -109,7 +99,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"
+      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
     },
     {
       "key": "短剧",
@@ -150,6 +140,16 @@
       "changeable": 1
     },
     {
+      "key": "csp_SuBaiBai",
+      "name": "⛅️素白白",
+      "type": 3,
+      "api": "csp_SuBaiBai",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"    
+    },
+    {
       "key":"南瓜",
       "name":"🎃南瓜┃App",
       "type":3,
@@ -171,10 +171,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"csp_Kkys","name":"💡酷看","type":3,"api":"csp_Kkys","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"},
-    {"key":"csp_Kekys","name":"👻可可","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"},
-    {"key":"csp_Kuaikan","name":"👀快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A"},
-    {"key":"农民","name":"💢农民","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;4757AD203B395E55AA0F2A600077869A","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kekys","name":"👻可可┃南风","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"},
+    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"},
+    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",

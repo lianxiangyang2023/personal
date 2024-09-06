@@ -17,6 +17,20 @@
       "filterable": 0
     },
     {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "./lib/小学课堂.json"
+    },
+    {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -288,6 +302,7 @@
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽┃XYQ",
       "type": 3,
+      "playurl": "json:https://jx.xmflv.cc/?url=",
       "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇珍异兽.js"
     },
@@ -567,20 +582,6 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "📚小学┃课堂",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./lib/小学课堂.json"
     },
     {
       "key": "初中课堂",

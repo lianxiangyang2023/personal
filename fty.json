@@ -670,16 +670,6 @@
   ],
   "parses": [
     {
-      "name": "Json聚合",
-      "type": 3,
-      "url": "Demo"
-    },
-    {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
-    },
-    {
       "name": "xmflv",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="

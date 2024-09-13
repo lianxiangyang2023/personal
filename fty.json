@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
+      "jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"
     },
     {
       "key": "csp_Qiyou",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
+      "jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"
     },
     {
       "key": "csp_TianTian",
@@ -113,7 +113,17 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"
+      "jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"
+    },
+    {
+      "key": "瓜子",
+      "name": "🍉瓜子",
+      "type": 3,
+      "api": "csp_Gz360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"   
     },
     {
       "key": "短剧",
@@ -155,13 +165,13 @@
     },
     {
       "key": "csp_SuBaiBai",
-      "name": "⛅️素白白",
+      "name": "⛅️素白┃南风",
       "type": 3,
       "api": "csp_SuBaiBai",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"    
+      "jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"    
     },
     {
       "key":"南瓜",
@@ -185,9 +195,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"csp_Kekys","name":"👻可可┃南风","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"},
-    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154"},
-    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;21180B70AD0AF0EC2C1FE20C0F3A0154","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kekys","name":"👻可可┃南风","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"},
+    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE"},
+    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;C195487A036A9D5B48BCF834785950EE","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",

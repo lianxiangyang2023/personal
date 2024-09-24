@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"
     },
     {
       "key": "csp_Qiyou",
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"
     },
     {
       "key": "csp_TianTian",
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"
     },
     {
       "key": "瓜子",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"   
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"   
     },
     {
       "key": "短剧",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"    
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"    
     },
     {
       "key":"南瓜",
@@ -195,9 +195,9 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {"key":"csp_Kekys","name":"👻可可┃南风","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"},
-    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d"},
-    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;292eee31d2051bd58942b65036ba6e7d","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kekys","name":"👻可可┃南风","type":3,"api":"csp_Kekys","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"},    
+    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"},
+    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",

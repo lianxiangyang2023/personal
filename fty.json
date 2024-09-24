@@ -88,12 +88,13 @@
       "key": "csp_Jpys",
       "name": "💮金牌┃南风",
       "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 2,
+      "api": "csp_JPYY",
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3"
+      "jar":"./jars/Yoursmile.jar;md5;4b067c29c70aa25c447f52c8a62cc2a3",
+      "ext": ""
     },
     {
       "key": "csp_Qiyou",

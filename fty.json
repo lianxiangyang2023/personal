@@ -85,10 +85,10 @@
       }
     },
     {
-      "key": "csp_Jpys",
+      "key": "csp_JPYY",
       "name": "💮金牌┃南风",
       "type": 3,
-      "api": "csp_JPYY",
+      "api": "csp_Jpyy",
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,

@@ -93,7 +93,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
+      "jar":"./jars/1008.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73",
       "ext": ""
     },
      {
@@ -103,7 +103,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_Gz360",
-      "jar":"./jars/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c"
+      "jar":"./jars/1008.jar;md5;05298b62790d4f33bc1b5bcb9fe8de73"
     },
     {
       "key": "csp_Qiyou",

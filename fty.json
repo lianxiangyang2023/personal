@@ -288,17 +288,29 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-    {
+     {
       "key": "hipy_js_腾云驾雾[官]",
       "name": "🌞腾腾┃解析",
       "type": 3,
-      "api": "https://gitee.com/liuqu01/liuqutvbox/raw/master/drpy_libs/drpy2.min.js",
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "http://www.mpanso.com/小米/ttt111222.js"
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
+    },
+    {
+      "key": "guoguo",
+      "name": "🌞果果┃解析",
+      "type": 3,
+      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "order_num": 0,
+      "changeable": 0,
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
       "key": "drpy_js_优酷",

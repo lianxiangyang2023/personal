@@ -96,6 +96,15 @@
       "jar":"./jars/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c",
       "ext": ""
     },
+     {
+      "key": "GUAZI",
+      "name": "🥁瓜子┃1080",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_Gz360",
+      "jar":"./jars/1008.jar;md5;386c26d857fcbd8e369eac0abf7a904c"
+    },
     {
       "key": "csp_Qiyou",
       "name": "🦌奇优┃南风",

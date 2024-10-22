@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;0a91b704fc178bc3766d0eb33b7d908e",
+  "spider": "./jars/fan.txt;md5;280cd3d4d397dce21bf99a30c7ca91f2",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites":[
     {
@@ -113,7 +113,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"
+      "jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"
     },
     {
       "key": "csp_TianTian",
@@ -123,7 +123,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"
+      "jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"
     },
     {
       "key": "瓜子",
@@ -133,7 +133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"   
+      "jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"   
     },
     {
       "key": "短剧",
@@ -171,7 +171,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"    
+      "jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"    
     },
     {
       "key": "南瓜",
@@ -193,8 +193,8 @@
       "quickSearch": 1,
       "changeable": 1
     }, 
-    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"},
-    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"},
+    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -278,7 +278,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;7849A5A3FB05E53A281B98764642C2AB"   
+      "jar":"./jars/Yoursmile.jar;md5;6229959A72145299ACFBC2DF95C913AB"   
     },
     {
       "key": "drpy_js_奇珍异兽",

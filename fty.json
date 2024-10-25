@@ -980,7 +980,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./live/live.txt",
+      "url": "./live/live.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "https://epg.erw.cc/e.xml/?ch={name}&date={date}",

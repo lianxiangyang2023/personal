@@ -978,7 +978,7 @@
     ],
   "lives": [
     {
-      "name": "live",
+      "name": "直播",
       "type": 0,
       "url": "./live/直播.m3u",
       "playerType": 1,

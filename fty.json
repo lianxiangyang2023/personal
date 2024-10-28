@@ -980,7 +980,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./live/live.m3u",
+      "url": "./live/直播.m3u",
       "playerType": 1,
       "ua": "okhttp/3.15"
     },

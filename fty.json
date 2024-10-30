@@ -982,9 +982,7 @@
       "type": 0,
       "url": "./live/直播.m3u",
       "playerType": 1,
-      "ua": "okhttp/3.15",
-      "epg": "https://live.fanmingming.com/e.xml/?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "ua": "okhttp/3.15"
     },
     {
       "name": "live",

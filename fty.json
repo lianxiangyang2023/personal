@@ -21,6 +21,7 @@
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -572,6 +573,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -586,6 +588,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
+      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
       "style": {
         "type": "rect",
         "ratio": 1.597

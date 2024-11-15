@@ -21,7 +21,7 @@
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
     },
     {
       "key": "csp_TianTian",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"
     },
     {
       "key": "瓜子",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"   
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"   
     },
     {
       "key": "短剧",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"    
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"    
     },
     {
       "key": "南瓜",
@@ -215,8 +215,8 @@
       "quickSearch": 1,
       "changeable": 1
     }, 
-    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"},
-    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"},
+    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",
@@ -300,7 +300,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031"   
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040"   
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -573,7 +573,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -588,7 +588,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;22A4EDB787D52D726D0ED84A8589A031",
+      "jar":"./jars/Yoursmile.jar;md5;C9A9FEA3B8FC4C181918A63DC9C7F040",
       "style": {
         "type": "rect",
         "ratio": 1.597

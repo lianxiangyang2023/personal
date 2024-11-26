@@ -215,8 +215,26 @@
       "quickSearch": 1,
       "changeable": 1
     }, 
-    {"key":"csp_Kuaikan","name":"👀快看┃南风","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"},
-    {"key":"农民","name":"💢农民┃南风","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6","ext":{"数组":"<li>&&</li>","图片":"src=\"&&\"","分类url":"https://www.wwgz.cn/vod-list-id-{cateId}-pg-{catePg}-order--by--class-0-year-{year}-letter--area-{area}-lang-.html","分类":"短剧$26#电视剧$2#电影$1#动漫$4#综艺$3"}},
+    {
+	    "key":"csp_Kuaikan",
+	    "name":"👀快看┃南风",
+	    "type":3,
+	    "api":"csp_Kuaikan",
+	    "searchable":1,
+	    "quickSearch":1,
+	    "filterable":1,
+	    "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"
+    },
+    {
+      "key": "农民",
+      "name": "👩‍🌾农民",
+      "type": 3,
+      "api": "csp_Nongm",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"   
+    },
     {
       "key": "抠搜",
       "name": "🍄抠抠┃搜搜",

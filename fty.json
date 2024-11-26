@@ -21,7 +21,7 @@
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6",
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -114,7 +114,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
     },
     {
       "key": "csp_TianTian",
@@ -124,7 +124,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
     },
     {
       "key": "瓜子",
@@ -134,7 +134,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"   
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
     },
     {
       "key": "短剧",
@@ -183,7 +183,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"    
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"    
     },
     {
       "key": "南瓜",
@@ -223,7 +223,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1,
-	    "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"
+	    "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
     },
     {
       "key": "农民",
@@ -233,7 +233,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"   
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
     },
     {
       "key": "抠搜",
@@ -318,7 +318,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6"   
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
     },
     {
       "key": "drpy_js_奇珍异兽",
@@ -591,7 +591,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6",
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -606,7 +606,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;ee893463464787026a267324781e5fb6",
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
       "style": {
         "type": "rect",
         "ratio": 1.597

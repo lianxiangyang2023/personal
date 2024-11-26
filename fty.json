@@ -175,15 +175,18 @@
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "csp_SuBaiBai",
-      "name": "⛅️素白┃南风",
+     {
+      "key": "UC",
+      "name": "🌈优汐┃搜搜",
       "type": 3,
-      "api": "csp_SuBaiBai",
+      "api": "csp_UuSs",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"    
+      "changeable": 0,
+      "ext": {
+        "Cloud-drive": "tvfan/Cloud-drive.txt",
+        "from": "4k|auto"
+      }
     },
     {
       "key": "南瓜",
@@ -227,7 +230,7 @@
     },
     {
       "key": "农民",
-      "name": "👩‍🌾农民",
+      "name": "👩‍🌾农民┃南风",
       "type": 3,
       "api": "csp_Nongm",
       "searchable": 1,

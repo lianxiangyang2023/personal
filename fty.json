@@ -109,7 +109,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/1026.jar;md5;3574bbe3de12181b1ef79c9938246aa6",
+      "jar":"./jars/1026.jar;md5;859ac4d2f96f5168819e8da09af1207d",
       "ext": ""
     },
      {
@@ -119,7 +119,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "api": "csp_Gz360",
-      "jar":"./jars/1026.jar;md5;3574bbe3de12181b1ef79c9938246aa6"
+      "jar":"./jars/1026.jar;md5;859ac4d2f96f5168819e8da09af1207d"
     },
     {
       "key": "csp_Qiyou",
@@ -339,6 +339,22 @@
       "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
     },
     {
+      "key": "csp_Bili",
+      "name": "🆎哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "jar":"./jars/1026.jar;md5;859ac4d2f96f5168819e8da09af1207d",
+      "playerType": 2,
+      "ext": {
+        "json": "https://3450.kstore.vip/bibi.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
+    {
       "key": "drpy_js_奇珍异兽",
       "name": "奇珍异兽┃XYQ",
       "type": 3,
@@ -350,19 +366,19 @@
       "key": "hipy_js_腾云驾雾[官]",
       "name": "🌞腾腾┃解析",
       "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "order_num": 0,
       "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/ttt.js"
+      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
     },
     {
       "key": "guoguo",
       "name": "🌞果果┃解析",
       "type": 3,
-      "api": "http://154.9.252.167:666/tvbox/js/drpy_libs/drpy2.min.js",
+      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,

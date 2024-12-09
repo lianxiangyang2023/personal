@@ -14,7 +14,8 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",    
     },
     {
       "key": "小学课堂",

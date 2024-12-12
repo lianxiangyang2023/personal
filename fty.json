@@ -46,7 +46,18 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "./lib/少儿教育.json"
-    },
+     },
+     {
+      "key": "csp_Jpys",
+      "name": "🥇金牌",
+      "type": 3,
+      "api": "csp_Jpys",
+      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+     },
      {
       "key": "厂长",
       "name": "📔厂长┃不卡",
@@ -57,7 +68,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzy77.com/"
+      "ext": "http://www.czzyvideo.com"
     },
     {
       "key": "文采",
@@ -81,9 +92,10 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
         "siteUrl": [
-          "https://wogg.xxooo.cf/",
-          "https://www.wogg.bf/",
-          "https://www.wogg.net/"
+          "https://www.wogg.net/",
+	  "http://woggpan.333232.xyz/",
+          "http://woggapi.888484.xyz/",
+          "http://wogg.xxooo.cf/"
         ],
         "danMu": "弹"
       }
@@ -106,7 +118,7 @@
       "name": "💮金牌┃小米",
       "type": 3,
       "api": "csp_Jpyy",
-      "playerType": 1,
+      "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,

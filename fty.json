@@ -15,14 +15,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7" 
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643" 
     },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -37,7 +37,7 @@
       "name": "📚少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -48,11 +48,11 @@
       "ext": "./lib/少儿教育.json"
      },
      {
-      "key": "csp_Jpys",
+      "key": "csp_Jpy",
       "name": "🥇金牌┃南风",
       "type": 3,
-      "api": "csp_Jpys",
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "api": "csp_Jpy",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -63,12 +63,11 @@
       "name": "📔厂长┃不卡",
       "type": 3,
       "api": "csp_NewCz",
-      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://www.czzyvideo.com"
+      "ext": "https://www.czzyvideo.com/"
     },
     {
       "key": "文采",
@@ -142,7 +141,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
     {
       "key": "csp_TianTian",
@@ -152,7 +151,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
     {
       "key": "瓜子",
@@ -162,7 +161,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "短剧",
@@ -254,7 +253,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1,
-	    "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"
+	    "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
     {
       "key": "农民",
@@ -264,7 +263,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "抠搜",
@@ -349,7 +348,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "csp_Bili",
@@ -375,11 +374,11 @@
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
     },
-     {
+      {
       "key": "hipy_js_腾云驾雾[官]",
-      "name": "🌞腾腾┃解析",
+      "name": "🐧腾腾┃1080P",
       "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -389,9 +388,9 @@
     },
     {
       "key": "guoguo",
-      "name": "🌞果果┃解析",
+      "name": "🥭果果┃4K4K",
       "type": 3,
-      "api": "https://3450.kstore.vip/js/drpy_libs/drpy2.js",
+      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -624,7 +623,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -639,7 +638,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;B9AF352B140888240B0AFFADAEA679D7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597

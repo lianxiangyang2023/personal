@@ -1,5 +1,4 @@
 🇨🇳｜央视频道V4,#genre#
-小美满,https://d.kstore.dev/download/6451/lib/xiaomeiman.mp4
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8

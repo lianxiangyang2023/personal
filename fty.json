@@ -48,7 +48,7 @@
       "ext": "./lib/少儿教育.json"
      },
      {
-      "key": "csp_Jpy",
+      "key": "csp_Jpys",
       "name": "🥇金牌┃南风",
       "type": 3,
       "api": "csp_Jpy",
@@ -143,6 +143,17 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"
+    },
+     {
+      "key": "csp_SP360",
+      "name": "💘360",
+      "type": 3,
+      "api": "csp_SP360",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"     
     },
     {
       "key": "瓜子",

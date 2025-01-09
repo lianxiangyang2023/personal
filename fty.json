@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;ff90f08636149d5ad8dfa91af77b8955",
+  "spider": "./jars/fan.txt;md5;f98827d83bb8ca104b0b1ead61a98c5b",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "sites":[
     {
@@ -15,14 +15,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326" 
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7" 
     },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -37,7 +37,7 @@
       "name": "📚少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -52,7 +52,7 @@
       "name": "🥇金牌┃南风",
       "type": 3,
       "api": "csp_Jpy",
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
     },
     {
       "key": "csp_TianTian",
@@ -142,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
     },
      {
       "key": "csp_SP360",
@@ -153,7 +153,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"     
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"     
     },
     {
       "key": "瓜子",
@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"   
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
     },
     {
       "key": "zxzj",
@@ -246,7 +246,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1,
-	    "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"
+	    "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
     },
     {
       "key": "农民",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"   
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
     },
     {
       "key": "抠搜",
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326"   
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
     },
     {
       "key": "csp_Bili",
@@ -405,30 +405,6 @@
       "playurl": "json:https://jx.xmflv.cc/?url=",
       "api": "./lib/drpy2.min.js",
       "ext": "./js/奇珍异兽.js"
-    },
-      {
-      "key": "hipy_js_腾云驾雾[官]",
-      "name": "🐧腾腾┃1080P",
-      "type": 3,
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/tm.js"
-    },
-    {
-      "key": "guoguo",
-      "name": "🥭果果┃4K4K",
-      "type": 3,
-      "api": "https://gitee.com/zj521jj/little-tiger-spot/raw/master/drpy_libs/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "order_num": 0,
-      "changeable": 0,
-      "ext": "https://gitee.com/smallmi1007/mimi/raw/master/guoguo.js"
     },
     {
       "key": "drpy_js_优酷",
@@ -648,7 +624,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -663,7 +639,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;C6BB658C79DBF1B220A5004B3FB05326",
+      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "style": {
         "type": "rect",
         "ratio": 1.597

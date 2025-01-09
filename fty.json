@@ -51,7 +51,7 @@
       "key": "csp_Jpys",
       "name": "🥇金牌┃南风",
       "type": 3,
-      "api": "csp_Jpy",
+      "api": "csp_Jpys",
       "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
       "playerType": 2,
       "searchable": 1,

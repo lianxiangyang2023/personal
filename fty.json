@@ -15,14 +15,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7" 
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643" 
     },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -37,7 +37,7 @@
       "name": "📚少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -48,15 +48,15 @@
       "ext": "./lib/少儿教育.json"
      },
      {
-      "key": "csp_Jpys",
+      "key": "csp_Jpy",
       "name": "🥇金牌┃南风",
       "type": 3,
-      "api": "csp_Jpys",
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
+      "api": "csp_Jpy",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
      },
      {
       "key": "厂长",
@@ -132,7 +132,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
     {
       "key": "csp_TianTian",
@@ -142,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
      {
       "key": "csp_SP360",
@@ -153,7 +153,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"     
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"     
     },
     {
       "key": "瓜子",
@@ -163,7 +163,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "zxzj",
@@ -246,7 +246,7 @@
 	    "searchable":1,
 	    "quickSearch":1,
 	    "filterable":1,
-	    "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"
+	    "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"
     },
     {
       "key": "农民",
@@ -256,7 +256,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "抠搜",
@@ -380,7 +380,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7"   
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643"   
     },
     {
       "key": "csp_Bili",
@@ -624,7 +624,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -639,7 +639,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;b9af352b140888240b0affadaea679d7",
+      "jar":"./jars/Yoursmile.jar;md5;fe7cb5d2619fc9512ad1a1cb2a821643",
       "style": {
         "type": "rect",
         "ratio": 1.597

@@ -133,7 +133,18 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
+      "ext": "http://www.dyxz2.com/",
       "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"
+    },
+    {
+      "key": "原创",
+      "name": "☀原创┃无广",
+      "type": 3,
+      "api": "csp_YCyz",
+      "timeout": 15,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key": "Auete",
@@ -145,6 +156,26 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "https://auete.com/"
+    },
+     {
+      "key": "csp_Lkdy",
+      "name": "🏔️来看",
+      "type": 3,
+      "api": "csp_Lkdy",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"  
+    },
+     {
+      "key": "csp_Lggys",
+      "name": "💗️攻阁",
+      "type": 3,
+      "api": "csp_Lggys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"     
     },
     {
       "key": "csp_TianTian",
@@ -199,16 +230,6 @@
       "ext": "https://www.zxzjhd.com/"
     },
     {
-      "key": "原创",
-      "name": "☀原创┃无广",
-      "type": 3,
-      "api": "csp_YCyz",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "苹果",
       "name": "🍎苹果┃不卡",
       "type": 3,
@@ -236,6 +257,15 @@
       "type": 3,
       "api": "csp_NanGua",
       "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "糯米",
+      "name": "🍓糯米┃秒播",
+      "type": 3,
+      "api": "csp_Nmyswv",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
@@ -482,16 +512,6 @@
                  "分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[firstPage=http://www.7xdy.com/{cateId}/index.html"
               },
       "jar":"./jars/XBPQ.jar"
-    },
-   {
-      "key": "糯米",
-      "name": "🍓糯米┃秒播",
-      "type": 3,
-      "api": "csp_Nmyswv",
-      "timeout": 15,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
     },
     {
       "key": "萌米",

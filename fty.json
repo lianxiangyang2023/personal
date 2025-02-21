@@ -49,14 +49,15 @@
       "ext": "./lib/少儿教育.json"
      },
      {
-      "key": "csp_Jpy",
+      "key": "金牌",
       "name": "🥇金牌┃南风",
       "type": 3,
       "api": "csp_Jpys",
-      "playerType": 2,
+      "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
+      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==",
       "jar": "./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"
      },
      {
@@ -160,7 +161,7 @@
     },
      {
       "key": "csp_Lkdy",
-      "name": "🏔️来看",
+      "name": "🏔️来看┃南风",
       "type": 3,
       "api": "csp_Lkdy",
       "searchable": 1,
@@ -170,7 +171,7 @@
     },
      {
       "key": "csp_Lggys",
-      "name": "💗️攻阁",
+      "name": "💗️攻阁┃南风",
       "type": 3,
       "api": "csp_Lggys",
       "searchable": 1,

@@ -465,7 +465,8 @@
       "name": "优酷┃XYQ",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js"
+      "ext": "./js/优酷.js",
+      "playUrl": "https://jx.xmflv.cc/?url="
     },
     {
       "key": "drpy_js_腾云驾雾",

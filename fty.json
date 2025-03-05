@@ -457,32 +457,28 @@
       "name": "👑奇珍┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js",
-      "jar":"https://gitee.com/yiwu369/6758/blob/master/%E9%9D%92%E9%BE%99/spider.jar;md5;9d280858771dfe8e0968772393074f94"
+      "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
       "name": "👑优酷┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js",
-      "jar":"https://gitee.com/yiwu369/6758/blob/master/%E9%9D%92%E9%BE%99/spider.jar;md5;9d280858771dfe8e0968772393074f94"
+      "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
       "name": "👑腾云┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/腾云驾雾.js",
-      "jar":"https://gitee.com/yiwu369/6758/blob/master/%E9%9D%92%E9%BE%99/spider.jar;md5;9d280858771dfe8e0968772393074f94"
+      "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
       "name": "👑百忙┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js",
-      "jar":"https://gitee.com/yiwu369/6758/blob/master/%E9%9D%92%E9%BE%99/spider.jar;md5;9d280858771dfe8e0968772393074f94"
+      "ext": "./lib/百忙无果.js"
     },
     {
       "key": "DiDuan",

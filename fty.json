@@ -454,33 +454,31 @@
     },
     {
       "key": "drpy_js_奇珍异兽",
-      "name": "奇珍异兽┃XYQ",
+      "name": "👑奇珍┃道长",
       "type": 3,
-      "playurl": "json:https://jx.xmflv.cc/?url=",
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/奇珍异兽.js"
+      "ext": "./lib/奇珍异兽.js"
     },
     {
       "key": "drpy_js_优酷",
-      "name": "优酷┃XYQ",
+      "name": "👑优酷┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/优酷.js",
-      "playUrl": "https://jx.xmflv.cc/?url="
+      "ext": "./lib/优酷.js"
     },
     {
       "key": "drpy_js_腾云驾雾",
-      "name": "腾云驾雾┃XYQ",
+      "name": "👑腾云┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/腾云驾雾.js"
+      "ext": "./lib/腾云驾雾.js"
     },
     {
       "key": "drpy_js_百忙无果",
-      "name": "百忙无果┃XYQ",
+      "name": "👑百忙┃道长",
       "type": 3,
       "api": "./lib/drpy2.min.js",
-      "ext": "./js/百忙无果.js"
+      "ext": "./lib/百忙无果.js"
     },
     {
       "key": "DiDuan",

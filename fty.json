@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;d7422c79ea5b4479c056b168cdaf95b0",
+  "spider": "./jars/fan.txt;md5;dda5ab42b722f13761900308a6caff89",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "接口免费，请勿付费购买",
   "sites":[
@@ -93,7 +93,7 @@
         "Cloud-drive": "tvfan/Cloud-drive.txt",
         "from": "4k|auto",
         "siteUrl": [
-          "https://www.wogg.net/",
+          "https://www.wogg.one/",
 	  "http://woggpan.333232.xyz/",
           "http://woggapi.888484.xyz/",
           "http://wogg.xxooo.cf/"
@@ -254,15 +254,25 @@
         "pturl": "http://mo.91muou.icu/|http://54271.fun/|http://mo.666291.xyz/"
       }
     },
-    {
-      "key": "南瓜",
-      "name": "🎃南瓜┃多线",
+   {
+      "key": "神车",
+      "name": "🚎神车┃秒播",
       "type": 3,
-      "api": "csp_NanGuaGuard",
-      "playerType": 2,
+      "api": "csp_AppSxGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1
+      "changeable": 1,
+      "ext": "rfOX1voDIQhH8epBwpmIsuSzrWqbloq80ygmO9WjCB9RMwhf/nZ7r/EzcL5d1Nw67mKKK4Je"
+    },
+    {
+      "key": "溢彩",
+      "name": "💡溢彩┃秒播",
+      "type": 3,
+      "api": "csp_AppSKGuard",
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "rfOX1voDIQhH8epBwtCFsqytsyyZwsnimWFjKc+jS1xHcE9fpWU7oKJ1cO9Swdt5tnqCZsFHjiJz5HEyTr51QZvCqObdFjLuH/mEy+uqVyo="
     },
     {
       "key": "糯米",

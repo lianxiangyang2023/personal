@@ -49,18 +49,6 @@
       "ext": "./lib/少儿教育.json"
      },
      {
-      "key": "金牌",
-      "name": "🥇金牌┃南风",
-      "type": 3,
-      "api": "csp_Jpys",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "caHR0cHM6Ly93d3cuY2Zrajg2LmNvbQ==",
-      "jar": "./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"
-     },
-     {
       "key": "厂长",
       "name": "📔厂长┃不卡",
       "type": 3,
@@ -116,26 +104,22 @@
     },
     {
       "key": "csp_JPYY",
-      "name": "💮金牌┃小米",
+      "name": "🥇金牌┃小米",
       "type": 3,
-      "api": "csp_Jpys",
+      "api": "csp_JpysGuard",
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "jar":"./jars/1026.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
-      "ext": "https://www.hkybqufgh.com"
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
     },
-    {
-      "key": "csp_Qiyou",
-      "name": "🦌奇优┃南风",
+     {
+      "key": "莉莉",
+      "name": "🌰莉莉┃1080P",
       "type": 3,
-      "api": "csp_Qiyou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.dyxz2.com/",
-      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"
+      "api": "csp_AppGetGuard",
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335",     
+      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"
     },
      {
       "key": "原创",
@@ -179,36 +163,29 @@
       "filterable": 1,
       "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"     
     },
-    {
-      "key": "csp_TianTian",
-      "name": "🦉天天┃南风",
+   {
+      "key": "天天",
+      "name": "🦢天天┃1080P",
       "type": 3,
-      "api": "csp_TianTian",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"   
     },
      {
-      "key": "csp_SP360",
-      "name": "💘360┃南风",
+      "key": "热热",
+      "name": "🏜热热┃1080P",
       "type": 3,
-      "api": "csp_SP360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"     
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"        
     },
-    {
-      "key": "瓜子",
-      "name": "🍉瓜子┃南风",
+     {
+      "key": "追剧",
+      "name": "🏈追剧┃1080P",
       "type": 3,
-      "api": "csp_Gz360",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811C7CBA670E2776ABD3F5A09E238"   
+      "api": "csp_AppRJGuard",
+      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"      
     },
     {
       "key": "白白",

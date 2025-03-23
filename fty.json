@@ -429,7 +429,7 @@
       "name": "🆎哔哩┃哔哩",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/1026.jar;md5;11e7f4b3a83620a0b1c31eb7f609aa10",
+      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335",
       "playerType": 2,
       "ext": {
         "json": "https://3450.kstore.vip/bibi.json",

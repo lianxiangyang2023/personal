@@ -428,7 +428,7 @@
       "key": "csp_Bili",
       "name": "🆎哔哩┃哔哩",
       "type": 3,
-      "api": "csp_Bili",
+      "api": "csp_BiliGuard",
       "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335",
       "playerType": 2,
       "ext": {

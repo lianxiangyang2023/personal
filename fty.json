@@ -4,7 +4,7 @@
 //使用任何第三方硬件、软件、所造成的一切后果由使用的个人或组织承担，与本文内容无关。
 //所有直接或间接使用本内容的个人和组织，应 24 小时内完成学习和研究，并及时删除本文内容。
 {
-  "spider": "./jars/fan.txt;md5;54c3c5cd399274cfdbed01fd53e65fd4",
+  "spider": "./jars/fan.txt;md5;11b6dbd2b630fc9c95e36247917f55db",
   "wallpaper": "https://深色壁纸.xxooo.cf/",
   "warningText": "接口免费，请勿付费购买",
   "sites":[
@@ -50,20 +50,21 @@
      },
      {
       "key": "厂长",
-      "name": "📔厂长┃不卡",
+      "name": "📔厂长┃秒播",
       "type": 3,
       "api": "csp_NewCzGuard",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://www.czzyvideo.com/"
+      "changeable": 1
     },
-    {
+   {
       "key": "文采",
       "name": "💮文采┃秒播",
       "type": 3,
       "api": "csp_JpysGuard",
+      "timeout": 15,
       "playerType": 2,
       "searchable": 1,
       "quickSearch": 1,
@@ -102,46 +103,26 @@
         "from": "4k|auto"
       }
     },
-    {
-      "key": "csp_JPYY",
-      "name": "🥇金牌┃小米",
-      "type": 3,
-      "api": "csp_JpysGuard",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"
-    },
-     {
-      "key": "莉莉",
-      "name": "🌰莉莉┃1080P",
-      "type": 3,
-      "api": "csp_AppGetGuard",
-      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335",     
-      "ext": "sHR2rlsfjI4L3t4RXQMkn0xaBCNcSQUCvczzn7zWpJd7PJ5uE10QNLrWWS17wAYglPoC8UNLIX0B4DnEefWcAydxKYH8rxXY/n5Z1HeXH9exVQ6o+uIi6FAmTcCFBKVEhbMLsvvqM3GIa16E8qYderB0nB+AiqMMXAUC0sfjCrt7OHidpXhNZqkTjmVqiwvC3NjlI8h65kp6Qu58FpriLCfdQOs2uyQq6VaJAApvA2cYX2V5fMu4UtLCjorwdlJc"
-    },
-     {
+      {
       "key": "原创",
-      "name": "☀原创┃不卡",
+      "name": "☀原创┃秒播",
       "type": 3,
       "api": "csp_YCyzGuard",
-      "timeout": 15,
+      "timeout": 30,
       "playerType": 1,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
     },
-    {
-      "key": "Auete",
-      "name": "🏝奥特┃无广",
+     {
+      "key": "奥特",
+      "name": "🏝奥特┃多线",
       "type": 3,
       "api": "csp_AueteGuard",
       "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://auete.com/"
+      "changeable": 1
     },
     {
         "key":"神车",
@@ -173,30 +154,6 @@
       "filterable": 1,
       "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"     
     },
-   {
-      "key": "天天",
-      "name": "🦢天天┃1080P",
-      "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMknxhunFUlA4159TKiKvIPpfcM1xianxebcSLajBbwFymqC+z9WoGzQYbh7FSvh8KdiC0BKF0CalaPaCEMOZm+ClGEeNzXAaR0FnrV04SiB2NK",
-      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"   
-    },
-     {
-      "key": "热热",
-      "name": "🏜热热┃1080P",
-      "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9mmg6Ofmy66+wcs9waIyn4hKqT9jG9s4kO6qzcu2OSqWS1/T+wfkqe+UwoipekwvcM11PTDrQqKYI8lmMXUc1vBHxp/2uWIw5HUoscBNWEb",
-      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"        
-    },
-     {
-      "key": "追剧",
-      "name": "🏈追剧┃1080P",
-      "type": 3,
-      "api": "csp_AppRJGuard",
-      "ext": "sHR2rlsfjI4L3t4RXQMkn9NPgTvCXvJVoUvXJHT6PqBNTg88Q5I4mc95m2RizprWhdAIQNMU/HShly4WRNzUsfhvqzHXHhHD57G7QagNV0Cx+WDSBgm0uZMAbZVHmzjM",
-      "jar":"./jars/1026.jar;md5;b73ed98a0a285189794be3c8d9c3a335"      
-    },
     {
       "key": "白白",
       "name": "🐟白白┃秒播",
@@ -220,9 +177,10 @@
     },
     {
       "key": "苹果",
-      "name": "🍎苹果┃不卡",
+      "name": "🍎苹果┃秒播",
       "type": 3,
       "api": "csp_LiteAppleGuard",
+      "timeout": 15,
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1

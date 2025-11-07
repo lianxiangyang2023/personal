@@ -16,14 +16,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238" 
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8" 
     },
     {
       "key": "小学课堂",
       "name": "📚小学┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238",
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -38,7 +38,7 @@
       "name": "📚少儿┃教育",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238",
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -142,7 +142,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"  
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"  
     },
      {
       "key": "csp_Lggys",
@@ -152,7 +152,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"     
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"     
     },
     {
       "key": "白白",
@@ -256,7 +256,7 @@
 	"searchable":1,
 	"quickSearch":1,
 	"filterable":1,
-	"jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"
+	"jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"
     },
     {
       "key": "农民",
@@ -266,7 +266,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"   
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"   
     },
     {
       "key": "抠搜",
@@ -390,7 +390,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238"   
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"   
     },
     {
       "key": "csp_Bili",
@@ -603,7 +603,7 @@
       "name": "📚初中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238",
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "style": {
         "type": "rect",
         "ratio": 1.597
@@ -618,7 +618,7 @@
       "name": "📚高中┃课堂",
       "type": 3,
       "api": "csp_Bili",
-      "jar":"./jars/Yoursmile.jar;md5;926811c7cba670e2776abd3f5a09e238",
+      "jar":"./jars/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8",
       "style": {
         "type": "rect",
         "ratio": 1.597

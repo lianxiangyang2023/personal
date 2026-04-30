@@ -1,13 +1,13 @@
 //资源全部免费，仅供测试交流，请勿内置传播与转卖，微信公众号：奇奇资源库，交流Q群号码：90859992。
 
 {
-    "spider": "./spider.jar",
+    "spider": "./jars/ok.jar",
     "wallpaper": "http://127.0.0.1:9978/proxy?do=wall",
     "logo": "http://oss4liview.moji.com/thd_file/2026/03/16/8f3aa460979f999455633dc256d27a34.jpg",
     "sites": [
         {
             "key": "豆瓣",
-            "name": "🤓公众号┃OK猫开发 (关注不迷路)",
+            "name": "🤓豆瓣┃推荐",
             "type": 3,
             "api": "csp_AweSomeGuard",
             "searchable": 0,
